@@ -1,3 +1,3 @@
 Step Response is used to identify the system.
 
-DAQ: MF644
+DAQ: Humusoft MF644
